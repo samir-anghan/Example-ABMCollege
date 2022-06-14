@@ -40,6 +40,10 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="wnK-Ep-1Vq" secondAttribute="trailing" constant="186" id="zir-se-EGI"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="button" destination="pGM-WS-cTS" id="ilv-yX-dK8"/>
+                        <outlet property="label" destination="wnK-Ep-1Vq" id="TRy-4p-jWY"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
